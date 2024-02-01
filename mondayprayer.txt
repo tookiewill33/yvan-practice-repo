@@ -1,0 +1,24 @@
+ please save all these commands
+ git init --> initialized a git repository
+- git pull --> pull the code changes from a remote repository to your local repository
+- git push --> use to push your code from local repository to a remote repository
+- git add $filename --> use to move $filename from the working area to the staging area within a branch 
+- git clone --> use to clone a remote repository to a local environment 
+- git branch --> use to show the present branches 
+- git branch $branchname --> use to create the branch $branchname
+- git branch -d $branchname --> use to delete a branch 
+- git checkout --> use to switch between branches
+- git checkout -b $branchname --> create a new branch and switch into the branch
+- git commit --> use to move codes from staging area into a repository
+- git commit -m --> use to pass a commit message
+- git switch --> use to switch between branches
+- git config --global user.name --> use to set the author global username id 
+- git config --global user.email --> use to set author global email id 
+- git fetch  --> use to fetch down all the branches from a remote repository
+- git remote -v --> use to show the registered remote repository on a local environment 
+example; ubuntu@yvangithub:~/practice$ git remote -v
+addedrepo       https://github.com/tookiewill33/mafamille.git (fetch)
+addedrepo       https://github.com/tookiewill33/mafamille.git (push)
+
+- git remote add --> use to register a remote repository to a local environment
+wxample: git remote add "addedrepo" https://github.com/tookiewill33/mafamille.git
