@@ -1,0 +1,5 @@
+>How do you check your git version:
+You can check your current version of git by running git --version command in your terminal .
+git --version
+If everything went well, it should return the Git version that is installed on your computer.
+
