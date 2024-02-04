@@ -1,4 +1,4 @@
- please save all these commands
+ pplease save all these commands
  git init --> initialized a git repository
 - git pull --> pull the code changes from a remote repository to your local repository
 - git push --> use to push your code from local repository to a remote repository
